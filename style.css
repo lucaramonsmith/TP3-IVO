@@ -1,0 +1,27 @@
+body {
+    width: 100vw;
+    height: 100vh;
+    color: bisque;
+    
+}
+
+.contenedor {
+    width: 95%;
+    height: 95%;
+    color: rgb(233, 198, 155);
+    display: flex;
+    flex-wrap: wrap;
+    gap: 15px;
+}
+
+.card {
+
+    width: 100px;
+    height: 100px;
+    color: rgb(168, 93, 0);
+} 
+
+p {
+    font-family: 'Times New Roman', Times, serif;
+    color: black;
+}
